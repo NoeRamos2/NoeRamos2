@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noe Ramos 
 - 👀 I’m interested in web development front-end and back-end.
-- 🌱 I’m currently learning Vue.js 
+- 🌱 I’m currently learning Reactjs 
 - 📫 How to reach me noe.ramos509@gmail.com
 
 <!---
